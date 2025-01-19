@@ -1,0 +1,4 @@
+/home/asus/Desktop/matplotc/build/CMakeFiles/plotter.dir
+/home/asus/Desktop/matplotc/build/CMakeFiles/simple_plot.dir
+/home/asus/Desktop/matplotc/build/CMakeFiles/edit_cache.dir
+/home/asus/Desktop/matplotc/build/CMakeFiles/rebuild_cache.dir

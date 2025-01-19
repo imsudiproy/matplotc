@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/simple_plot.dir/examples/simple_plot.cpp.o -o simple_plot  libplotter.a /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 
